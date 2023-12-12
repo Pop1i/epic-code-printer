@@ -1,0 +1,19 @@
+[
+    {"word":"in","color":"yellow", "mode":1},
+    {"word":"else","color":"yellow", "mode":0},
+    {"word":"while","color":"yellow", "mode":0},
+    {"word":"do","color":"yellow", "mode":0},
+    {"word":"include","color":"yellow", "mode":0},
+    {"word":"memory","color":"yellow", "mode":0},
+    {"word":"proc","color":"yellow", "mode":0},
+    {"word":"const","color":"yellow", "mode":0},
+    {"word":"end","color":"yellow", "mode":1},
+    {"word":"offset","color":"yellow", "mode":0},
+    {"word":"reset","color":"yellow", "mode":0},
+    {"word":"assert","color":"yellow", "mode":0},
+    {"word":"here","color":"yellow", "mode":0},
+    {"word":"addr-of","color":"yellow", "mode":0},
+    {"word":"call-like","color":"yellow", "mode":0},
+    {"word":"let","color":"yellow", "mode":0},
+    {"word":"peek","color":"yellow", "mode":0}
+]

@@ -1,0 +1,21 @@
+[
+    {"word":"import","color":"magenta", "mode":0},
+
+    {"word":"def","color":"green", "mode":0},
+    {"word":"(","color":"yellow", "mode":1},
+    {"word":")","color":"yellow", "mode":1},
+
+    {"word":"\"","color":"magenta", "mode":2},
+
+    {"word":"if","color":"cyan", "mode":0},
+    {"word":"elif","color":"cyan", "mode":0},
+    {"word":"else","color":"cyan", "mode":0},
+
+    {"word":"for","color":"yellow", "mode":0},
+    {"word":"while","color":"yellow", "mode":0},
+
+    {"word":"range","color":"yellow", "mode":1},
+    {"word":"in","color":"light magenta", "mode":0},
+
+    {"word":",","color":"white", "mode":0}
+]

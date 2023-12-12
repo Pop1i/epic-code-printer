@@ -1,0 +1,28 @@
+[
+    {"word":"#include","color":"magenta", "mode":0},
+
+    {"word":"int", "color":"blue", "mode":0},
+    {"word":"bool", "color":"blue", "mode":0},
+    {"word":"char", "color":"blue", "mode":0},
+
+    {"word":"(", "color":"yellow", "mode":1},
+    {"word":")", "color":"yellow", "mode":1},
+
+    {"word":"\"", "color":"blue", "mode":2},
+
+    {"word":"<", "color":"cyan", "mode":2},
+    {"word":"<", "color":"cyan", "mode":0},
+    {"word":">", "color":"cyan", "mode":0},
+
+    {"word":";", "color":"light red", "mode":1},
+
+    {"word":"{", "color":"yellow", "mode":1},
+    {"word":"}", "color":"yellow", "mode":1},
+
+    {"word":"return", "color":"light magenta", "mode":0},
+
+    {"word":",", "color":"white", "mode":1},
+
+    {"word":"if", "color":"cyan", "mode":0},
+    {"word":"else", "color":"cyan", "mode":1}
+]
